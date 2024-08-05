@@ -1,0 +1,64 @@
+.btn-home{
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    color: crimson;
+    font-weight: bold;
+    border-radius: 10px;
+    border: unset;
+}
+.btn-about{
+    background-color: #7b5f5f;
+    width: 100px;
+    height: 50px;
+    color: #010101;
+    font-weight: bold;
+    border-radius: 10px;
+    border: unset;
+}
+.btn-gallery{
+    background-color: #bf1111;
+    width: 100px;
+    height: 50px;
+    color: #010101;
+    font-weight: bold;
+    border-radius: 10px;
+    border: unset;
+}
+#btn-services{
+    background-color: #2f7b67;
+    width: 100px;
+    height: 50px;
+    color: #010101;
+    font-weight: bold;
+    border-radius: 10px;
+    border: unset;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: cadetblue;
+    font-size: 40px;
+}
+.h-services{
+    text-align: center;
+    text-decoration: underline;
+}
+.saf-services, .saf-houses{
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+img{
+    width: 19%;
+    margin-left: 10px;
+    height: 250px;
+    border-radius: 10px;
+}
+video{
+    width: 32%;
+    margin-left: 5px;
+    height: 250px;
+    border-radius: 10px;
+}
